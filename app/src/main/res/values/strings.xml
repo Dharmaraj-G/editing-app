@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">dharmaraj</string>
+    <string name="right">right</string >
+    <string name="center">center</string>
+    <string name="left">left</string>
+    <string name="no_formatting">no formatting</string>
+    <string name="underline">underline</string>
+    <string name="italics">italics</string>
+    <string name="bold">bold</string>
+    <string name="type_text_here">type ur text here</string>
+</resources>
